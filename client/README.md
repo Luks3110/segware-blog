@@ -16,7 +16,11 @@ Abra [http://localhost:3000](http://localhost:3000)
 
 ### `npm test`
 
-Executa os testes
+Executa os testes unitários
+
+### `yarn run cypress open`
+
+Executa os testes de integração
 
 ### `npm run build`
 
